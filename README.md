@@ -8,6 +8,10 @@
 <div>
   <h3>About Me</h3>
   <ul>
+    <li>📍 I'm a full stack developer based in Boston</li>
+    <li>🏫 I'm a senior at Boston College majoring in Computer Science and Linguistics</li>
+    <li>🌱 2024 goals: 1⃣️ Grow Scope to 100 users 2⃣️ Grow Eagle Connect to 100 users 3⃣️ Contribute to three open source projects </li>
+    <li>🎾 Fun Fact: I enjoy playing tennis, so I'm looking forward to warmer weather</li>
   </ul>
 </div>
 
