@@ -8,8 +8,8 @@
 <div>
   <h3>About Me</h3>
   <ul>
-    <li>🏫 I'm a senior at Boston College majoring in Computer Science and Linguistics</li>
-    <li>📍 I'm interested in opportunities across software engineering, machine learning, and data analytics.</li>
+    <li>🏫 I'm a recent Boston College graduate that majored in Computer Science and Linguistics</li>
+    <li>📍 I'm interested in software engineering, especially full stack, frontend, and backend roles.</li>
   </ul>
 </div>
 
