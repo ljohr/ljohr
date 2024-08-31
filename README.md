@@ -9,7 +9,7 @@
   <h3>About Me</h3>
   <ul>
     <li>🏫 I'm a recent Boston College graduate that majored in Computer Science and Linguistics</li>
-    <li>📍 I'm interested in software engineering, especially full stack, frontend, and backend roles.</li>
+    <li>📍 I am currently working as a software engineer intern at Geaux Network where I have been contributing to the frontend and backend of an in-app checkout feature.</li>
   </ul>
 </div>
 
